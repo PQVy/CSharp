@@ -1,0 +1,11 @@
+D:\Study\MicrosoftVisualStudio\C Sharp\CheckCanadaSIN\CheckCanadaSIN\bin\Debug\netcoreapp2.0\CheckCanadaSIN.deps.json
+D:\Study\MicrosoftVisualStudio\C Sharp\CheckCanadaSIN\CheckCanadaSIN\bin\Debug\netcoreapp2.0\CheckCanadaSIN.runtimeconfig.json
+D:\Study\MicrosoftVisualStudio\C Sharp\CheckCanadaSIN\CheckCanadaSIN\bin\Debug\netcoreapp2.0\CheckCanadaSIN.runtimeconfig.dev.json
+D:\Study\MicrosoftVisualStudio\C Sharp\CheckCanadaSIN\CheckCanadaSIN\bin\Debug\netcoreapp2.0\CheckCanadaSIN.dll
+D:\Study\MicrosoftVisualStudio\C Sharp\CheckCanadaSIN\CheckCanadaSIN\bin\Debug\netcoreapp2.0\CheckCanadaSIN.pdb
+D:\Study\MicrosoftVisualStudio\C Sharp\CheckCanadaSIN\CheckCanadaSIN\obj\Debug\netcoreapp2.0\CheckCanadaSIN.csprojAssemblyReference.cache
+D:\Study\MicrosoftVisualStudio\C Sharp\CheckCanadaSIN\CheckCanadaSIN\obj\Debug\netcoreapp2.0\CheckCanadaSIN.csproj.CoreCompileInputs.cache
+D:\Study\MicrosoftVisualStudio\C Sharp\CheckCanadaSIN\CheckCanadaSIN\obj\Debug\netcoreapp2.0\CheckCanadaSIN.AssemblyInfoInputs.cache
+D:\Study\MicrosoftVisualStudio\C Sharp\CheckCanadaSIN\CheckCanadaSIN\obj\Debug\netcoreapp2.0\CheckCanadaSIN.AssemblyInfo.cs
+D:\Study\MicrosoftVisualStudio\C Sharp\CheckCanadaSIN\CheckCanadaSIN\obj\Debug\netcoreapp2.0\CheckCanadaSIN.dll
+D:\Study\MicrosoftVisualStudio\C Sharp\CheckCanadaSIN\CheckCanadaSIN\obj\Debug\netcoreapp2.0\CheckCanadaSIN.pdb
