@@ -1,0 +1,9 @@
+D:\Study\MicrosoftVisualStudio\SQLConnectionDemo\SQLConnectionDemo\bin\Debug\SQLConnectionDemo.exe.config
+D:\Study\MicrosoftVisualStudio\SQLConnectionDemo\SQLConnectionDemo\bin\Debug\SQLConnectionDemo.exe
+D:\Study\MicrosoftVisualStudio\SQLConnectionDemo\SQLConnectionDemo\bin\Debug\SQLConnectionDemo.pdb
+D:\Study\MicrosoftVisualStudio\SQLConnectionDemo\SQLConnectionDemo\obj\Debug\SQLConnectionDemo.csprojAssemblyReference.cache
+D:\Study\MicrosoftVisualStudio\SQLConnectionDemo\SQLConnectionDemo\obj\Debug\SQLConnectionDemo.csproj.CoreCompileInputs.cache
+D:\Study\MicrosoftVisualStudio\SQLConnectionDemo\SQLConnectionDemo\obj\Debug\SQLConnectionDemo.exe
+D:\Study\MicrosoftVisualStudio\SQLConnectionDemo\SQLConnectionDemo\obj\Debug\SQLConnectionDemo.pdb
+D:\Study\MicrosoftVisualStudio\SQLConnectionDemo\SQLConnectionDemo\bin\Debug\Database1.mdf
+D:\Study\MicrosoftVisualStudio\SQLConnectionDemo\SQLConnectionDemo\bin\Debug\Database1_log.ldf

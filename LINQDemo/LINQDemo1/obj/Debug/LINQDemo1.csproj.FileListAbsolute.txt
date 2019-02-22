@@ -1,0 +1,7 @@
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo1\bin\Debug\LINQDemo1.exe.config
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo1\bin\Debug\LINQDemo1.exe
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo1\bin\Debug\LINQDemo1.pdb
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo1\obj\Debug\LINQDemo1.csprojAssemblyReference.cache
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo1\obj\Debug\LINQDemo1.csproj.CoreCompileInputs.cache
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo1\obj\Debug\LINQDemo1.exe
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo1\obj\Debug\LINQDemo1.pdb

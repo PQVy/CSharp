@@ -1,0 +1,6 @@
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo2\bin\Debug\LINQDemo2.exe.config
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo2\bin\Debug\LINQDemo2.exe
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo2\bin\Debug\LINQDemo2.pdb
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo2\obj\Debug\LINQ_OrderBy.csproj.CoreCompileInputs.cache
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo2\obj\Debug\LINQDemo2.exe
+D:\Study\MicrosoftVisualStudio\LINQ\LINQDemo2\obj\Debug\LINQDemo2.pdb
