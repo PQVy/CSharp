@@ -14,8 +14,6 @@ namespace SQLConnectionDemo
         private string connectionString;
         private string query;
 
-        public string ConnectionString { get => connectionString; private set => connectionString = value; }
-
         public SqlConnection DBConnection()
         {
             try
