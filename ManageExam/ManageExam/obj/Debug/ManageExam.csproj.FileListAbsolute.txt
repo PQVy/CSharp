@@ -1,0 +1,9 @@
+D:\Study\MicrosoftVisualStudio\ManageExam\ManageExam\bin\Debug\ManageExam.mdf
+D:\Study\MicrosoftVisualStudio\ManageExam\ManageExam\bin\Debug\ManageExam_log.ldf
+D:\Study\MicrosoftVisualStudio\ManageExam\ManageExam\bin\Debug\ManageExam.exe.config
+D:\Study\MicrosoftVisualStudio\ManageExam\ManageExam\bin\Debug\ManageExam.exe
+D:\Study\MicrosoftVisualStudio\ManageExam\ManageExam\bin\Debug\ManageExam.pdb
+D:\Study\MicrosoftVisualStudio\ManageExam\ManageExam\obj\Debug\ManageExam.csprojAssemblyReference.cache
+D:\Study\MicrosoftVisualStudio\ManageExam\ManageExam\obj\Debug\ManageExam.csproj.CoreCompileInputs.cache
+D:\Study\MicrosoftVisualStudio\ManageExam\ManageExam\obj\Debug\ManageExam.exe
+D:\Study\MicrosoftVisualStudio\ManageExam\ManageExam\obj\Debug\ManageExam.pdb
